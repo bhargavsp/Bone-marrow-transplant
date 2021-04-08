@@ -1,0 +1,275 @@
+/* my css */
+
+* {
+  box-sizing: border-box;
+}
+
+.adult {
+  color: #ffffff;
+  font-family: Titillium;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+  width: auto;
+  text-align: left;
+}
+header {
+  background-image: url(./../images/Banner_mage.png);
+  background-repeat: no-repeat !important;
+  background-size: 100% 100%;
+}
+
+header .row .col-md-7 {
+  padding: 50px;
+  padding-bottom: 55px;
+}
+
+header .container .col-md-7 {
+  font-family: "Rubik", sans-serif;
+}
+
+header button {
+  background-color: #dd5a6a;
+}
+
+header .treatments {
+  color: #ffffff;
+  font-family: StagSans;
+  font-size: 25px;
+  letter-spacing: 3.59px;
+  line-height: 34px;
+  width: auto;
+  text-align: left;
+  font-weight: 100;
+}
+
+header .row .col-md-5 {
+  /* padding: 4.2vmin 1vmin; */
+  padding: 30px;
+  /* padding-bottom: 10px;
+  padding-top: 10px; */
+  /* width: 100px;
+  height: 100px; */
+}
+
+.wrapper {
+  text-align: center;
+}
+header .col-md-5 .card {
+  width: 100%;
+}
+
+footer {
+  background: #272727;
+  overflow-x: hidden;
+  padding: 14vmin 18vmin;
+}
+
+footer img {
+  padding: 0 0.25em;
+}
+
+.card {
+  border: none;
+}
+
+.cards2 {
+  background-color: #ffffff;
+  border: 1px solid #e5eaff;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+}
+.card4 {
+  background-color: white;
+  border-radius: 4px;
+}
+
+.heading {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.hsp {
+  width: 1%;
+  display: block;
+  margin-right: auto;
+}
+
+.para {
+  margin-left: 45px;
+  margin-top: -41px;
+}
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-background {
+  background: radial-gradient(
+    farthest-corner at -35% 100%,
+    #2ec4b8 0%,
+    #6078ea 100%
+  );
+  color: white;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.card-text-main {
+  font-size: 13px;
+  font-family: StagSans;
+  height: 95px;
+  padding: 19px 5px 5px 5px;
+}
+.card-text-sections {
+  color: #1d5aa6;
+
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+}
+.card-img-top {
+  width: 100%;
+  display: block;
+  float: left;
+  padding: 0px 5px 5px 5px;
+}
+.card-img-top1 {
+  width: 10%;
+  display: block;
+  /* margin-left: auto; */
+  margin-right: auto;
+}
+.card-text1 {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 3px;
+  text-align: center;
+}
+
+.doctors {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+.rectangle {
+  background-color: #f9f9ff;
+  border-radius: 4px;
+  width: 100%;
+  height: auto;
+}
+.bitmap {
+  width: 255px;
+  height: 161px;
+  align-content: center;
+}
+
+.pediatric-bmt {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: center;
+}
+
+.mycard {
+  background-color: #f9f9ff;
+  border-radius: 4px;
+  height: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.md-mrcp-ph-d-cct-le-copy {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  text-align: center;
+  width: 100%;
+}
+
+.dr-vijay-agarwal-is-copy {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 20px;
+  width: auto;
+  text-align: center;
+}
+
+.questions {
+  color: #1d5aa6;
+  font-family: "StagSans";
+  font-size: 25px;
+  letter-spacing: 1.6px;
+  line-height: 30px;
+  width: 100%;
+  text-align: left;
+}
+.p-tag {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: left;
+}
+
+.id-card {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+  height: 249px;
+}
+
+.id-card-text {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+  text-align: left;
+}
+.bottom-img {
+  width: 91px;
+  height: 80px;
+}
+
+.book-apt {
+  text-align: center;
+}
+.button {
+  background-color: #004498;
+  border-radius: 3.81px;
+}
+.line-5-copy-2 {
+  border: 1px solid #22b78e;
+  width: 37px;
+  height: 1px;
+}
+.john-doe {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+}
